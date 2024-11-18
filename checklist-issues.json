@@ -1,0 +1,177 @@
+[
+  {
+    "# Issue name": "Form an organizing committee",
+    "label": "committee",
+    "milestone": "one year"
+  },
+  {
+    "# Issue name": "Elect chief cat herder",
+    "label": "committee",
+    "milestone": "one year"
+  },
+  {
+    "# Issue name": "Figure out motivation for hack week",
+    "label": "committee",
+    "milestone": "one year"
+  },
+  {
+    "# Issue name": "Prepare for feedback and evaluation",
+    "label": "feedback",
+    "milestone": "one year"
+  },
+  {
+    "# Issue name": "Determine country and city for hack week",
+    "label": "logistics",
+    "milestone": "one year"
+  },
+  {
+    "# Issue name": "Pick and book a workshop venue",
+    "label": "logistics",
+    "milestone": "one year"
+  },
+  {
+    "# Issue name": "Make a budget",
+    "label": "logistics fundraising",
+    "milestone": "one year"
+  },
+  {
+    "# Issue name": "Prepare a website",
+    "label": "logistics website",
+    "milestone": "six months"
+  },
+  {
+    "# Issue name": "Set up contact e-mail address",
+    "label": "logistics website",
+    "milestone": "six months"
+  },
+  {
+    "# Issue name": "Collect organizations and individuals to advertise event to",
+    "label": "logistics participants",
+    "milestone": "six months"
+  },
+  {
+    "# Issue name": "Write announcement e-mail and share with community",
+    "label": "logistics participants",
+    "milestone": "six months"
+  },
+  {
+    "# Issue name": "Announce event on social media",
+    "label": "logistics participants",
+    "milestone": "six months"
+  },
+  {
+    "# Issue name": "Settle on selection criteria for participant selection",
+    "label": "logistics participants",
+    "milestone": "six months"
+  },
+  {
+    "# Issue name": "Set up an application or registration form",
+    "label": "logistics participants",
+    "milestone": "six months"
+  },
+  {
+    "# Issue name": "Select participants",
+    "label": "participants",
+    "milestone": "three months"
+  },
+  {
+    "# Issue name": "Assign travel funding to participants",
+    "label": "participants fundraising",
+    "milestone": "three months"
+  },
+  {
+    "# Issue name": "Identify for tutorial leads and/or team mentors",
+    "label": "tutorials facilitation",
+    "milestone": "three months"
+  },
+  {
+    "# Issue name": "build a facilitation plan",
+    "label": "facilitation",
+    "milestone": "three months"
+  },
+  {
+    "# Issue name": "Evaluate technology choices for synchronous/asynchronous virtual/hybrid participation",
+    "label": "technology facilitation",
+    "milestone": "three months"
+  },
+  {
+    "# Issue name": "Set up communication channels like Discord or Slack",
+    "label": "technology facilitation",
+    "milestone": "one month"
+  },
+  {
+    "# Issue name": "Set up shared software environment for participants",
+    "label": "technology",
+    "milestone": "one month"
+  },
+  {
+    "# Issue name": "Develop Code of Conduct and enforcement processes",
+    "label": "facilitation",
+    "milestone": "three months"
+  },
+  {
+    "# Issue name": "Send logistics e-mail to participants with information about travel and logistics",
+    "label": "logistics participants",
+    "milestone": "three months"
+  },
+  {
+    "# Issue name": "Fix schedule to its semi-final form",
+    "label": "logistics facilitation",
+    "milestone": "one month"
+  },
+  {
+    "# Issue name": "Set up rapid feedback survey",
+    "label": "facilitation feedback",
+    "milestone": "before event"
+  },
+  {
+    "# Issue name": "Prepare check-in materials like badges",
+    "label": "facilitation logistics",
+    "milestone": "before event"
+  },
+  {
+    "# Issue name": "Set up post-workshop feedback survey",
+    "label": "feedback",
+    "milestone": "before event"
+  },
+  {
+    "# Issue name": "Keep in touch with tutorial leads and team mentors",
+    "label": "facilitation participants tutorials",
+    "milestone": "during event"
+  },
+  {
+    "# Issue name": "Ask participants to acknowledge workshop in publications and blog posts and other outputs",
+    "label": "facilitation",
+    "milestone": "during event"
+  },
+  {
+    "# Issue name": "Set up virtual and physical boards for voting on break-out sessions and similar events",
+    "label": "facilitation",
+    "milestone": "before event"
+  },
+  {
+    "# Issue name": "Keep notes on expereinces and observations for post-workshop evaluation",
+    "label": "feedback",
+    "milestone": "during event"
+  },
+  {
+    "# Issue name": "Run participant survey on last day or immediately after",
+    "label": "feedback",
+    "milestone": "during event"
+  },
+  {
+    "# Issue name": "Evaluate the event based on observations and survey results",
+    "label": "feedback",
+    "milestone": "after event"
+  },
+  {
+    "# Issue name": "Debrief the event with organising committee",
+    "label": "feedback",
+    "milestone": "after event"
+  },
+  {
+    "# Issue name": "Keep track of event output such as papers and software and blog posts",
+    "label": "feedback",
+    "milestone": "after event"
+  }
+]
