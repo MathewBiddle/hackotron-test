@@ -3,7 +3,9 @@
 
 name: Python application
 
-on: create
+# on: create
+
+on: workflow_dispatch
 
 permissions:
   contents: read
