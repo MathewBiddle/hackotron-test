@@ -57,7 +57,7 @@ for i in issues.index:
     idx = milestone_titles.index(m)
     milestone = milestones[idx]
 
-    title = issues.loc[i,"issue"]
+    title = issues.loc[i,"# Issue name"]
 
     lname = issues.loc[i,"label"]
     lname = lname.split()
