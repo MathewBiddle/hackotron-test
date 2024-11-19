@@ -7,15 +7,14 @@ import numpy as np
 g = Github(os.environ["GITHUB_TOKEN"])
 repo = g.get_repo(os.environ["REPO_NAME"])
 
-issues = pd.read_csv("checklist-issues.txt", skiprows=1, 
-                     names=["issue", "label", "milestone"])
+issues = pd.read_json("checklist-issues.json")
 issues = issues.applymap(lambda x: x.strip())
 
 
 # create milestones
 for m in issues['milestone'].unique():
     try:
-        repo.create_milestone(title=m, state='open')
+        repo.create_milestone(title=m, state='open', due_on='2024-11-20')
     except GithubException as e:
         if e.data["errors"][0].get("code", None) != "already_exists":
             raise 
