@@ -51,7 +51,7 @@ labels = repo.get_labels()
 label_titles = [l.name for l in labels]
 
 # create issues
-print(issues)
+print(issues.head())
 for i in issues.index:
     m = issues.loc[i, "milestone"]
     idx = milestone_titles.index(m)
