@@ -15,7 +15,7 @@ issues = issues.applymap(lambda x: x.strip())
 for m in issues['milestone'].unique():
     try:
         milestone = repo.create_milestone(title=m, state='open')
-        milestone.edit(due_on='2024-11-20T00:00:00Z')
+        milestone.edit(title=m,due_on='2024-11-20T00:00:00Z')
     except GithubException as e:
         if e.data["errors"][0].get("code", None) != "already_exists":
             raise 
